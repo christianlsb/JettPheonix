@@ -1,0 +1,4 @@
+name: JettPheonix
+version: '${project.version}'
+main: xaay.pls.jettpheonix.JettPheonix
+api-version: 1.19

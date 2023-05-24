@@ -1,0 +1,4 @@
+name: JettPheonix
+version: '1.0-SNAPSHOT'
+main: xaay.pls.jettpheonix.JettPheonix
+api-version: 1.19
